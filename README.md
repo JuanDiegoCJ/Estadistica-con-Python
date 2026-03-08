@@ -1,2 +1,2 @@
-# Estadistica-con-Python
-Aprendizaje de estadística para Ciencia de Datos. Regresión Lineal y Aprendizaje Automático. Aplicación de Técnicas y Construcción de Modelos Predictivos.
+# 2145-data-science-probando-relaciones-con-regresion-lineal
+Este repositorio corresponde al entrenamiento de Data Science: Probando relaciones con regresión lineal de Alura Latam.
